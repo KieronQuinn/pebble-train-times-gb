@@ -1,0 +1,54 @@
+{
+    "appKeys": {
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "quinny898@gmail.com",
+    "longName": "Train Times",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/menu_icon",
+                "menuIcon": true,
+                "name": "IMAGES_MENU_ICON",
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Train Times",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "068bf5b3-170d-4786-b4b1-1ac3f873480f",
+    "versionCode": 12,
+    "versionLabel": "1.2",
+    "watchapp": {
+        "hiddenApp": false,
+        "watchface": false
+    }
+}
