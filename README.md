@@ -14,4 +14,4 @@ Station list from [UK Railway Stations](https://github.com/davwheat/uk-railway-s
 
 ## Building
 
-Since this is a pebble.js app, if you don't have a local version of CloudPebble, you must copy the files into a valid [pebble.js](https://github.com/pebble/pebblejs)) project, and then remove `"projectType": "pebblejs"` from `appinfo.json` to build it with the [Command Line Tools](https://hub.docker.com/r/bboehmke/pebble-dev).
+Since this is a pebble.js app, if you don't have a local version of CloudPebble, you must copy the files into a valid [pebble.js](https://github.com/pebble/pebblejs) project, and then remove `"projectType": "pebblejs"` from `appinfo.json` to build it with the [Command Line Tools](https://hub.docker.com/r/bboehmke/pebble-dev).
